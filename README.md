@@ -1,8 +1,6 @@
-# Hey, I'm Ciaran
-
 Head of Engineering at **Go Places**, where we're building analytical and agentic tools for social commerce.
 
-Also working on:
+Working on:
 
 - **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
 - AI tooling and agents that do real work
