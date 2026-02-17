@@ -8,7 +8,7 @@ Right now I'm working on:
 
 ### Projects
 
-- **[Relay Agent](https://github.com/ciaranashton/relay-agent)** — AI-powered real estate agent
+- **[Relay Agent](https://github.com/ciaranashton/relay-agent)** — Config-driven framework for building AI agents between inbound messages and your APIs
 - **[Line Items](https://lineitems.ai)** — AI accounting and finance tools
 - **[Trends](https://github.com/ciaranashton/trends)** — iOS health and fitness tracking app
 - **[Graphs ADT](https://github.com/ciaranashton/graphs-adt)** — Graph data structures with pathfinding and traversal algorithms
