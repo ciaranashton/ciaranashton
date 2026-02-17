@@ -12,7 +12,7 @@ right now i'm working on:
 
 - **[Realy Agent](https://realyagent.com)** — AI-powered real estate agent
 - **[Line Items](https://lineitems.ai)** — AI accounting and finance tools
-- **[iOS App Trends](https://iosapptrends.com)** — tracking what's happening on the App Store
+- **Trends** — iOS health and fitness tracking app
 - **[ciaran.ai](https://ciaran.ai)** — my website is sentient (not really, but it thinks it is)
 
 ---
