@@ -1,20 +1,18 @@
-# hey, i'm ciaran
+# Hey, I'm Ciaran
 
-i build things — mostly at the intersection of AI and stuff people actually need.
+Right now I'm working on:
 
-right now i'm working on:
-
-- **[ciaran.ai](https://ciaran.ai)** — my website is sentient (not really, but it thinks it is)
+- **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
 - AI tooling and agents that do real work
-- whatever idea won't leave me alone at 2am
+- Whatever idea won't leave me alone at 2am
 
-### projects
+### Projects
 
-- **[Realy Agent](https://realyagent.com)** — AI-powered real estate agent
+- **[Relay Agent](https://github.com/ciaranashton/relay-agent)** — AI-powered real estate agent
 - **[Line Items](https://lineitems.ai)** — AI accounting and finance tools
-- **Trends** — iOS health and fitness tracking app
-- **[ciaran.ai](https://ciaran.ai)** — my website is sentient (not really, but it thinks it is)
+- **[Trends](https://github.com/ciaranashton/trends)** — iOS health and fitness tracking app
+- **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
 
 ---
 
-*this README was last updated by a human and an AI arguing about whether a website can have feelings*
+*This README was last updated by a human and an AI arguing about whether a website can have feelings*
