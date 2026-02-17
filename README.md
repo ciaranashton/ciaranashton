@@ -1,6 +1,6 @@
 Working on:
 
-- Head of Engineering at **[Go Places](https://goplaces.io)**, where we're building analytical and agentic tools for social commerce.
+- Head of Engineering at **[Go Places](https://goplaces.io)**, where we're building analytical and agentic tools for social commerce
 - AI tooling and agents that do real work
 - Whatever idea won't leave me alone at 2am
 
