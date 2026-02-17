@@ -11,6 +11,7 @@ Right now I'm working on:
 - **[Relay Agent](https://github.com/ciaranashton/relay-agent)** — AI-powered real estate agent
 - **[Line Items](https://lineitems.ai)** — AI accounting and finance tools
 - **[Trends](https://github.com/ciaranashton/trends)** — iOS health and fitness tracking app
+- **[Graphs ADT](https://github.com/ciaranashton/graphs-adt)** — Graph data structures with pathfinding and traversal algorithms
 - **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
 
 ---
