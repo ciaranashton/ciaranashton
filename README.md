@@ -1,5 +1,3 @@
-# Hey, I'm Ciaran
-
 Right now I'm working on:
 
 - **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
