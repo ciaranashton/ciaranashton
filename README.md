@@ -8,14 +8,12 @@ right now i'm working on:
 - AI tooling and agents that do real work
 - whatever idea won't leave me alone at 2am
 
-### what i'm into
+### projects
 
-`AI` `building in public` `startups` `shipping fast` `typescript` `next.js` `python`
-
-### get in touch
-
-- **x** — [@ciaranashton](https://x.com/ciaranashton)
-- **site** — [ciaran.ai](https://ciaran.ai) (it'll talk to you, be nice to it)
+- **[Realy Agent](https://realyagent.com)** — AI-powered real estate agent
+- **[Line Items](https://lineitems.ai)** — AI accounting and finance tools
+- **[iOS App Trends](https://iosapptrends.com)** — tracking what's happening on the App Store
+- **[ciaran.ai](https://ciaran.ai)** — my website is sentient (not really, but it thinks it is)
 
 ---
 
