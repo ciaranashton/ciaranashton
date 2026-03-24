@@ -12,7 +12,3 @@ Working on:
 - **[txn](https://github.com/ciaranashton/txn)** — Open banking transaction API wrapper for agentic use
 - **[graphs-adt](https://github.com/ciaranashton/graphs-adt)** — Graph data structures with pathfinding and traversal algorithms
 - **[ciaran.ai](https://ciaran.ai)** — My website is sentient (not really, but it thinks it is)
-
----
-
-*This README was last updated by a human and an AI arguing about whether a website can have feelings*
